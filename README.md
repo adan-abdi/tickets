@@ -44,3 +44,11 @@ Statuses are `open`, `in_progress`, and `closed`. Priorities are `low`, `medium`
     - add frontend tests
     - strengthen input validation and error handling to make failures clearer and changes safer. 
     - Before using this with real support teams, I would add authentication and role-based permissions because tickets may contain sensitive customer information.
+
+## Screenshots
+
+![Ticket Tracker screenshot 1](screenshots/1.png)
+
+![Ticket Tracker screenshot 2](screenshots/2.png)
+
+![Ticket Tracker screenshot 3](screenshots/3.png)
